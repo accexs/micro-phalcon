@@ -1,0 +1,14 @@
+{
+    "require": {
+        "mongodb/mongodb": "^1.4",
+        "phalcon/incubator": "^3.4",
+        "firebase/php-jwt": "^5.0",
+        "whoops/phalcon": "^2.0",
+        "accexs/validator": "^1.1"
+    },
+    "require-dev": {
+        "mockery/mockery": "^1.1",
+        "phpunit/phpunit": "^7.3",
+        "helmich/mongomock": "^2.1"
+    }
+}

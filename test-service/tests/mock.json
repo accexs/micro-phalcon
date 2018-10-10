@@ -1,0 +1,590 @@
+{
+  "_id": {
+    "$oid": "5b9c13ca1d41c8857c707896"
+  },
+  "content_id": "HBO092232",
+  "provider": "hbo",
+  "content_type": "movie",
+  "downloadable": false,
+  "original_title": "Dane Cook's Tourgasm MOCK",
+  "id_grupo": null,
+  "estado": "ACT",
+  "content": {
+    "metadata": {
+      "originalTitle": "Dane Cook's Tourgasm",
+      "year": 2006,
+      "rating": "PG",
+      "title": {
+        "es": "Dane Cook's Tourgasm 08",
+        "pt": "Dane Cook's Tourgasm 08",
+        "en": "Dane Cook's Tourgasm 08"
+      },
+      "synopsis": {
+        "es": "El comediante Dane Cook invitó a unos amigos para que lo acompañaran a una gira. Cada episodio ofrece las escenas tras bambalinas.",
+        "pt": "Depois da apresentação na Universidade de Boston, é hora de relembrar os bons momentos da jornada. Os comediantes recordam também como se conheceram, e o episódio é cheio de filmes e fotografias do passado.",
+        "en": "Comedian Dane Cook invited some friends to accompany him on a tour bus. Each episode features behind the scenes, of course. Thus, Dane and his colleagues recall their experiences."
+      },
+      "genres": {
+        "es": [
+          {
+            "id": "n/d",
+            "name": "Comedy"
+          },
+          {
+            "id": "n/d",
+            "name": "Especiales"
+          }
+        ],
+        "pt": [
+          {
+            "id": "n/d",
+            "name": "Comedy"
+          },
+          {
+            "id": "n/d",
+            "name": "Especiais"
+          }
+        ],
+        "en": [
+          {
+            "id": "n/d",
+            "name": "Comedy"
+          },
+          {
+            "id": "n/d",
+            "name": "Specials"
+          }
+        ]
+      },
+      "cast": [
+        {
+          "id": "11018",
+          "first-name": "Dane",
+          "last-name": "Cook"
+        },
+        {
+          "id": "24264",
+          "first-name": "Jay",
+          "last-name": "Davis"
+        },
+        {
+          "id": "24265",
+          "first-name": "Gary",
+          "last-name": "Gulman"
+        },
+        {
+          "id": "24266",
+          "first-name": "Robert",
+          "last-name": "Kelly"
+        }
+      ],
+      "director": [
+        {
+          "id": "11018",
+          "first-name": "Dane",
+          "last-name": "Cook"
+        }
+      ],
+      "writer": [],
+      "duration": "00:27:13",
+      "originalLanguage": "ING",
+      "quality": null,
+      "short_synopsis": {
+        "es": "El comediante Dane Cook invitó a unos amigos para que lo acompañaran a una gira. Cada episodio ofrece las escenas tras bambalinas.",
+        "pt": "Cheio de filmes e fotografias antigas, o episódio mostra como os comediantes se conheceram. Eles relembram os momentos da jornada.",
+        "en": "Comedian Dane Cook invited some friends to accompany him on a tour bus. Each episode features behind the scenes."
+      }
+    },
+    "images": [
+      {
+        "rel": "640x960",
+        "type": "Movie",
+        "url": "http://smorp02.hbolaservices.com/image/HBO092232_SPA_640x960.jpg",
+        "lc": "SPA"
+      },
+      {
+        "rel": "1920x1080",
+        "type": "Movie",
+        "url": "http://smorp02.hbolaservices.com/image/HBO092232_CLN_1920x1080.jpg",
+        "lc": "CLN"
+      }
+    ],
+    "country": {
+      "1": {
+        "cha_id": "9070",
+        "country": "CO",
+        "startDate": "2018-02-22",
+        "endDate": "2019-07-01",
+        "formato": "Type 3",
+        "id_format": "13872259"
+      },
+      "2": {
+        "cha_id": "7210",
+        "country": "MX",
+        "startDate": "2017-06-26",
+        "endDate": "2019-07-01",
+        "formato": "Type 3",
+        "id_format": "13872259"
+      }
+    },
+    "versiones": [
+      {
+        "tipo_version": "CLEAR",
+        "id_contenido": "HBO0922321",
+        "estado": "ACT",
+        "materials": {
+          "MX": [
+            {
+              "id_remoto": "ism_ma",
+              "id_encodeo": "8010",
+              "url": "http://l3edvpsclmxp01.cust.footprint.net/B09223206_11EPRSS10C/B09223206_11EPRSS10C_m7.ism/manifest",
+              "subtitle": "",
+              "audio": "ori",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "m3u8_fps_ma",
+              "id_encodeo": "7011",
+              "url": "http://l3edvfhclmxp01.cust.footprint.net/B09223206_11EFPHS10C/B09223206_11EFPHS10C_m7.m3u8",
+              "subtitle": "",
+              "audio": "ori",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "dash_wv_ma",
+              "id_encodeo": "9010",
+              "url": "https://l3edvwdclmxp01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_m7.mpd",
+              "subtitle": "",
+              "audio": "ori",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "ism_otf",
+              "id_encodeo": "8003",
+              "url": "http://l3edvpsclmxp01.cust.footprint.net/B09223206_11EPRSS10C/B09223206_11EPRSS10C_w10.ism/manifest",
+              "subtitle": "",
+              "audio": "",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "m3u8_otf_fps",
+              "id_encodeo": "7004",
+              "url": "http://l3edvfhclmxp01.cust.footprint.net/B09223206_11EFPHS10C/B09223206_11EFPHS10C_w10.m3u8",
+              "subtitle": "",
+              "audio": "",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "dash_wv",
+              "id_encodeo": "9000",
+              "url": "https://l3edvwdclmxp01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_w10.mpd",
+              "subtitle": "",
+              "audio": "",
+              "estado": "ACT"
+            }
+          ],
+          "CO": [
+            {
+              "id_remoto": "ism_ma",
+              "id_encodeo": "8010",
+              "url": "http://l3edvpsclcop01.cust.footprint.net/B09223206_11EPRSS10C/B09223206_11EPRSS10C_m7.ism/manifest",
+              "subtitle": "",
+              "audio": "ori",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "m3u8_fps_ma",
+              "id_encodeo": "7011",
+              "url": "http://l3edvfhclcop01.cust.footprint.net/B09223206_11EFPHS10C/B09223206_11EFPHS10C_m7.m3u8",
+              "subtitle": "",
+              "audio": "ori",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "dash_wv_ma",
+              "id_encodeo": "9010",
+              "url": "https://l3edvwdclcop01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_m7.mpd",
+              "subtitle": "",
+              "audio": "ori",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "ism_otf",
+              "id_encodeo": "8003",
+              "url": "http://l3edvpsclcop01.cust.footprint.net/B09223206_11EPRSS10C/B09223206_11EPRSS10C_w10.ism/manifest",
+              "subtitle": "",
+              "audio": "",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "m3u8_otf_fps",
+              "id_encodeo": "7004",
+              "url": "http://l3edvfhclcop01.cust.footprint.net/B09223206_11EFPHS10C/B09223206_11EFPHS10C_w10.m3u8",
+              "subtitle": "",
+              "audio": "",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "dash_wv",
+              "id_encodeo": "9000",
+              "url": "https://l3edvwdclcop01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_w10.mpd",
+              "subtitle": "",
+              "audio": "",
+              "estado": "ACT"
+            }
+          ]
+        }
+      },
+      {
+        "tipo_version": "SUBT_ES",
+        "id_contenido": "HBO0922322",
+        "estado": "ACT",
+        "materials": {
+          "MX": [
+            {
+              "id_remoto": "ism_ma",
+              "id_encodeo": "8010",
+              "url": "http://l3edvpsclmxp01.cust.footprint.net/B09223206_11EPRSS10C/B09223206_11EPRSS10C_m7.ism/manifest",
+              "subtitle": "https://l3edvwdclmxp01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_spa.webvtt",
+              "audio": "ori",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "m3u8_fps_ma",
+              "id_encodeo": "7011",
+              "url": "http://l3edvfhclmxp01.cust.footprint.net/B09223206_11EFPHS10C/B09223206_11EFPHS10C_m7.m3u8",
+              "subtitle": "https://l3edvwdclmxp01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_spa.webvtt",
+              "audio": "ori",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "dash_wv_ma",
+              "id_encodeo": "9010",
+              "url": "https://l3edvwdclmxp01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_m7.mpd",
+              "subtitle": "https://l3edvwdclmxp01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_spa.webvtt",
+              "audio": "ori",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "ism_otf",
+              "id_encodeo": "8003",
+              "url": "http://l3edvpsclmxp01.cust.footprint.net/B09223206_11EPRSS10C/B09223206_11EPRSS10C_w10.ism/manifest",
+              "subtitle": "https://l3edvwdclmxp01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_spa.webvtt",
+              "audio": "ori",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "m3u8_otf_fps",
+              "id_encodeo": "7004",
+              "url": "http://l3edvfhclmxp01.cust.footprint.net/B09223206_11EFPHS10C/B09223206_11EFPHS10C_w10.m3u8",
+              "subtitle": "https://l3edvwdclmxp01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_spa.webvtt",
+              "audio": "ori",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "dash_wv",
+              "id_encodeo": "9000",
+              "url": "https://l3edvwdclmxp01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_w10.mpd",
+              "subtitle": "https://l3edvwdclmxp01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_spa.webvtt",
+              "audio": "ori",
+              "estado": "ACT"
+            }
+          ],
+          "CO": [
+            {
+              "id_remoto": "ism_ma",
+              "id_encodeo": "8010",
+              "url": "http://l3edvpsclcop01.cust.footprint.net/B09223206_11EPRSS10C/B09223206_11EPRSS10C_m7.ism/manifest",
+              "subtitle": "https://l3edvwdclcop01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_spa.webvtt",
+              "audio": "ori",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "m3u8_fps_ma",
+              "id_encodeo": "7011",
+              "url": "http://l3edvfhclcop01.cust.footprint.net/B09223206_11EFPHS10C/B09223206_11EFPHS10C_m7.m3u8",
+              "subtitle": "https://l3edvwdclcop01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_spa.webvtt",
+              "audio": "ori",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "dash_wv_ma",
+              "id_encodeo": "9010",
+              "url": "https://l3edvwdclcop01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_m7.mpd",
+              "subtitle": "https://l3edvwdclcop01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_spa.webvtt",
+              "audio": "ori",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "ism_otf",
+              "id_encodeo": "8003",
+              "url": "http://l3edvpsclcop01.cust.footprint.net/B09223206_11EPRSS10C/B09223206_11EPRSS10C_w10.ism/manifest",
+              "subtitle": "https://l3edvwdclcop01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_spa.webvtt",
+              "audio": "ori",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "m3u8_otf_fps",
+              "id_encodeo": "7004",
+              "url": "http://l3edvfhclcop01.cust.footprint.net/B09223206_11EFPHS10C/B09223206_11EFPHS10C_w10.m3u8",
+              "subtitle": "https://l3edvwdclcop01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_spa.webvtt",
+              "audio": "ori",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "dash_wv",
+              "id_encodeo": "9000",
+              "url": "https://l3edvwdclcop01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_w10.mpd",
+              "subtitle": "https://l3edvwdclcop01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_spa.webvtt",
+              "audio": "ori",
+              "estado": "ACT"
+            }
+          ]
+        }
+      },
+      {
+        "tipo_version": "SUBT_PT",
+        "id_contenido": "HBO0922323",
+        "estado": "ACT",
+        "materials": {
+          "MX": [
+            {
+              "id_remoto": "ism_ma",
+              "id_encodeo": "8010",
+              "url": "http://l3edvpsclmxp01.cust.footprint.net/B09223206_11EPRSS10C/B09223206_11EPRSS10C_m7.ism/manifest",
+              "subtitle": "https://l3edvwdclmxp01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_por.webvtt",
+              "audio": "ori",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "m3u8_fps_ma",
+              "id_encodeo": "7011",
+              "url": "http://l3edvfhclmxp01.cust.footprint.net/B09223206_11EFPHS10C/B09223206_11EFPHS10C_m7.m3u8",
+              "subtitle": "https://l3edvwdclmxp01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_por.webvtt",
+              "audio": "ori",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "dash_wv_ma",
+              "id_encodeo": "9010",
+              "url": "https://l3edvwdclmxp01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_m7.mpd",
+              "subtitle": "https://l3edvwdclmxp01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_por.webvtt",
+              "audio": "ori",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "ism_otf",
+              "id_encodeo": "8003",
+              "url": "http://l3edvpsclmxp01.cust.footprint.net/B09223206_11EPRSS10C/B09223206_11EPRSS10C_w10.ism/manifest",
+              "subtitle": "https://l3edvwdclmxp01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_por.webvtt",
+              "audio": "ori",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "m3u8_otf_fps",
+              "id_encodeo": "7004",
+              "url": "http://l3edvfhclmxp01.cust.footprint.net/B09223206_11EFPHS10C/B09223206_11EFPHS10C_w10.m3u8",
+              "subtitle": "https://l3edvwdclmxp01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_por.webvtt",
+              "audio": "ori",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "dash_wv",
+              "id_encodeo": "9000",
+              "url": "https://l3edvwdclmxp01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_w10.mpd",
+              "subtitle": "https://l3edvwdclmxp01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_por.webvtt",
+              "audio": "ori",
+              "estado": "ACT"
+            }
+          ],
+          "CO": [
+            {
+              "id_remoto": "ism_ma",
+              "id_encodeo": "8010",
+              "url": "http://l3edvpsclcop01.cust.footprint.net/B09223206_11EPRSS10C/B09223206_11EPRSS10C_m7.ism/manifest",
+              "subtitle": "https://l3edvwdclcop01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_por.webvtt",
+              "audio": "ori",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "m3u8_fps_ma",
+              "id_encodeo": "7011",
+              "url": "http://l3edvfhclcop01.cust.footprint.net/B09223206_11EFPHS10C/B09223206_11EFPHS10C_m7.m3u8",
+              "subtitle": "https://l3edvwdclcop01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_por.webvtt",
+              "audio": "ori",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "dash_wv_ma",
+              "id_encodeo": "9010",
+              "url": "https://l3edvwdclcop01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_m7.mpd",
+              "subtitle": "https://l3edvwdclcop01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_por.webvtt",
+              "audio": "ori",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "ism_otf",
+              "id_encodeo": "8003",
+              "url": "http://l3edvpsclcop01.cust.footprint.net/B09223206_11EPRSS10C/B09223206_11EPRSS10C_w10.ism/manifest",
+              "subtitle": "https://l3edvwdclcop01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_por.webvtt",
+              "audio": "ori",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "m3u8_otf_fps",
+              "id_encodeo": "7004",
+              "url": "http://l3edvfhclcop01.cust.footprint.net/B09223206_11EFPHS10C/B09223206_11EFPHS10C_w10.m3u8",
+              "subtitle": "https://l3edvwdclcop01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_por.webvtt",
+              "audio": "ori",
+              "estado": "ACT"
+            },
+            {
+              "id_remoto": "dash_wv",
+              "id_encodeo": "9000",
+              "url": "https://l3edvwdclcop01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_w10.mpd",
+              "subtitle": "https://l3edvwdclcop01.secure.footprint.net/B09223206_11EWVMD10C/B09223206_11EWVMD10C_por.webvtt",
+              "audio": "ori",
+              "estado": "ACT"
+            }
+          ]
+        }
+      }
+    ],
+    "rolling_credit": null,
+    "com_id": "0",
+    "com_shortname": "DLA16",
+    "images_spc": {
+      "grande": "/DANECOOKSTOURGASM/EXPORTACION_WEB/SS/DANECOOKSTOURGASMWGRANDE.jpg",
+      "mediana": "/DANECOOKSTOURGASM/EXPORTACION_WEB/SS/DANECOOKSTOURGASMWMEDIANA.jpg",
+      "chica": "/DANECOOKSTOURGASM/EXPORTACION_WEB/SS/DANECOOKSTOURGASMWCHICA.jpg"
+    },
+    "img_ingesta": [
+      {
+        "movie": {
+          "WVERTICAL": {
+            "SS": {
+              "title": "/var/www/proyectos/pruebas_spc/var/SPC/FOTOS/HBO/PELICULAS/DANECOOKSTOURGASM/EXPORTACION_WEB/SS/DANECOOKSTOURGASMWVERTICAL.jpg",
+              "id_content": "/var/www/proyectos/pruebas_spc/var/SPC/FOTOS/HBO/PELICULAS/HBO092232/EXPORTACION_WEB/SS/HBO092232WVERTICAL.jpg"
+            },
+            "PT": {
+              "title": "/var/www/proyectos/pruebas_spc/var/SPC/FOTOS/HBO/PELICULAS/DANECOOKSTOURGASM/EXPORTACION_WEB/PT/DANECOOKSTOURGASMWVERTICAL.jpg",
+              "id_content": "/var/www/proyectos/pruebas_spc/var/SPC/FOTOS/HBO/PELICULAS/HBO092232/EXPORTACION_WEB/PT/HBO092232WVERTICAL.jpg"
+            },
+            "CLEAN": {
+              "title": "/var/www/proyectos/pruebas_spc/var/SPC/FOTOS/HBO/PELICULAS/DANECOOKSTOURGASM/EXPORTACION_WEB/CLEAN/DANECOOKSTOURGASMWVERTICAL.jpg",
+              "id_content": "/var/www/proyectos/pruebas_spc/var/SPC/FOTOS/HBO/PELICULAS/HBO092232/EXPORTACION_WEB/CLEAN/HBO092232WVERTICAL.jpg"
+            },
+            "EN": {
+              "title": "/var/www/proyectos/pruebas_spc/var/SPC/FOTOS/HBO/PELICULAS/DANECOOKSTOURGASM/EXPORTACION_WEB/EN/DANECOOKSTOURGASMWVERTICAL.jpg",
+              "id_content": "/var/www/proyectos/pruebas_spc/var/SPC/FOTOS/HBO/PELICULAS/HBO092232/EXPORTACION_WEB/EN/HBO092232WVERTICAL.jpg"
+            }
+          },
+          "WHORIZONTAL": {
+            "SS": {
+              "title": "/var/www/proyectos/pruebas_spc/var/SPC/FOTOS/HBO/PELICULAS/DANECOOKSTOURGASM/EXPORTACION_WEB/SS/DANECOOKSTOURGASMWHORIZONTAL.jpg",
+              "id_content": "/var/www/proyectos/pruebas_spc/var/SPC/FOTOS/HBO/PELICULAS/HBO092232/EXPORTACION_WEB/SS/HBO092232WHORIZONTAL.jpg"
+            },
+            "PT": {
+              "title": "/var/www/proyectos/pruebas_spc/var/SPC/FOTOS/HBO/PELICULAS/DANECOOKSTOURGASM/EXPORTACION_WEB/PT/DANECOOKSTOURGASMWHORIZONTAL.jpg",
+              "id_content": "/var/www/proyectos/pruebas_spc/var/SPC/FOTOS/HBO/PELICULAS/HBO092232/EXPORTACION_WEB/PT/HBO092232WHORIZONTAL.jpg"
+            },
+            "CLEAN": {
+              "title": "/var/www/proyectos/pruebas_spc/var/SPC/FOTOS/HBO/PELICULAS/DANECOOKSTOURGASM/EXPORTACION_WEB/CLEAN/DANECOOKSTOURGASMWHORIZONTAL.jpg",
+              "id_content": "/var/www/proyectos/pruebas_spc/var/SPC/FOTOS/HBO/PELICULAS/HBO092232/EXPORTACION_WEB/CLEAN/HBO092232WHORIZONTAL.jpg"
+            },
+            "EN": {
+              "title": "/var/www/proyectos/pruebas_spc/var/SPC/FOTOS/HBO/PELICULAS/DANECOOKSTOURGASM/EXPORTACION_WEB/EN/DANECOOKSTOURGASMWHORIZONTAL.jpg",
+              "id_content": "/var/www/proyectos/pruebas_spc/var/SPC/FOTOS/HBO/PELICULAS/HBO092232/EXPORTACION_WEB/EN/HBO092232WHORIZONTAL.jpg"
+            }
+          }
+        },
+        "region": "XX",
+        "STILLS": {
+          "title": "/var/www/proyectos/pruebas_spc/var/SPC/FOTOS/HBO/PELICULAS/DANECOOKSTOURGASM/EXPORTACION_WEB/STILLS/DANECOOKSTOURGASM-STILL-01.jpg",
+          "id_content": "/var/www/proyectos/pruebas_spc/var/SPC/FOTOS/HBO/PELICULAS/HBO092232/EXPORTACION_WEB/STILLS/HBO092232-STILL-01.jpg"
+        }
+      }
+    ]
+  },
+  "adm_data": {
+    "metadata": {
+      "year": "2017",
+      "genres": {
+        "es": [
+          {
+            "id": "n/d",
+            "name": "Action"
+          }
+        ]
+      }
+    },
+    "deletes": {
+      "genres": {
+        "es": [
+          {
+            "id": "n/d",
+            "name": "Comedy"
+          }
+        ]
+      }
+    }
+  },
+  "integrity_checks": {
+    "media_period": "",
+    "fecha_fetch": {
+      "$date": 1537388744000
+    },
+    "check_media": {
+      "status": "0",
+      "msg": {
+        "provider": "",
+        "amco": ""
+      }
+    },
+    "check_img": {
+      "status": 1,
+      "msg": {
+        "provider": "",
+        "amco": ""
+      }
+    },
+    "check_metadata": {
+      "status": 1,
+      "msg": {
+        "provider": "",
+        "amco": ""
+      }
+    },
+    "check_crawler": {
+      "status": 1,
+      "msg": {
+        "provider": "",
+        "amco": ""
+      }
+    },
+    "check_ingesta": {
+      "status": "0",
+      "fecha_ingesta": "",
+      "msg": {
+        "provider": "",
+        "amco": ""
+      }
+    },
+    "check_transc": {
+      "status": "0",
+      "msg": {
+        "provider": "",
+        "amco": ""
+      }
+    },
+    "estado_envio": {
+      "status": "0",
+      "fecha_alta": "",
+      "fecha_modif": "",
+      "msg_error": "",
+      "estado_pubs": "",
+      "id_publicacion": ""
+    }
+  },
+  "media_id": ""
+}

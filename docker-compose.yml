@@ -1,0 +1,39 @@
+version: '2'
+
+services:
+
+  phpfpm:
+    build:
+      context: ./docker-container/phpfpm
+    privileged: true
+    volumes:
+      - ./test-service:/var/www/test-service:rw
+      - ./logs:/var/log/test-service:rw
+    ports:
+      - 9001:9001
+    environment:
+      - "affinity:container!=*nginx*"
+
+  nginx:
+    build:
+      context: ./docker-container/nginx
+    privileged: true
+    depends_on:
+      - phpfpm
+    volumes:
+      - ./test-service:/var/www/test-service:rw
+      - ./logs:/var/log/test-service:rw
+      - ./docker-container/nginx/config/conf.d/test-service.conf:/etc/nginx/conf.d/test-service.conf
+    ports:
+      - 8080:80
+    environment:
+      - "affinity:container!=*nginx*"
+
+  mongo:
+    image: mongo:latest
+    privileged: true
+    volumes:
+      - ./docker-container/mongodb/data:/data/db:rw
+    ports:
+      - 27017:27017
+
