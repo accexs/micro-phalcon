@@ -3,3 +3,4 @@
 /test-service/vendor
 /test-service/build/coverage
 /test-service/build/logs
+/docker-container/mongodb/*
